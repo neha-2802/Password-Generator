@@ -1,2 +1,3 @@
 # Password-Generator
 This Python script generates a random password based on user-defined lengths for alphabets, numbers, and special characters, shuffling them for enhanced security.
+This Python script generates a random password based on user input. The user specifies the desired length of the password, along with the number of alphabets, numbers, and special characters. The script then randomly selects characters from predefined lists of alphabets, numbers, and special characters, and combines them to form the password. Finally, it shuffles the characters to ensure randomness and prints the generated password.
